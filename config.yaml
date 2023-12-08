@@ -1,4 +1,4 @@
-baseURL: https://amethyst.bencuan.me
+baseURL: https://amethyst.xavier9527.top/
 
 # Book configuration
 disablePathToLower: true
@@ -25,13 +25,13 @@ menu:
   #     weight: 10
   after:
     - name: "Github"
-      url: "https://github.com/64bitpandas/amethyst"
+      url: ''
       weight: 10
 
 params:
 
-  name: Ben Cuan
-  title: 📓 Amethyst
+  name: Xavier
+  title: 📓 Amethyst Blog
 
   # OPTIONAL: custom favicon location
   # favicon: 'location/to/favicon.png'
